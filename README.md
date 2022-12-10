@@ -4,6 +4,6 @@ In Pacman project, Create a one Pacman and its detect the screen edge to the Pac
 Step 1 : Once you run the project,the PacMan will appears and move in the direction and reverse if its find the edge.
 
 
-##Future Improvement 
+## Future Improvement 
 
 The Project is enhanced by adding more styles and animation tho the pacemen.
