@@ -6,4 +6,4 @@ Step 1 : Once you run the project,the PacMan will appears and move in the direct
 
 ## Future Improvement 
 
-The Project is enhanced by adding more styles and animation tho the pacemen.
+The Project is enhanced by adding more styles and animation tho the Pacmen.
